@@ -1,0 +1,10 @@
+### Set Cookies
+
+GET  http://localhost:3000/setcookies
+
+### get Cookies
+
+GET http://localhost:3000/getcookies
+
+### Delete Cookies
+GET http://localhost:3000/delcookies
